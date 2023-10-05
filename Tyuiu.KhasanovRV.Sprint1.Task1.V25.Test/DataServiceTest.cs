@@ -1,9 +1,9 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-using Tyuiu.KhasanovRV.Sprint1.Task1.V25.Lib;
+using Tyuiu.KhasanovRV.Sprint1.Task1.V1.Lib;
 
-namespace Tyuiu.KhasanovRV.Sprint1.Task1.V25.Test
+namespace Tyuiu.KhasanovRV.Sprint1.Task1.V1.Test
 {
     [TestClass]
     public class DataServiceTest
@@ -12,9 +12,9 @@ namespace Tyuiu.KhasanovRV.Sprint1.Task1.V25.Test
         public void ValidExpression()
         {
             DataService ds = new DataService();
-            double x = 1.0, y = 2.0;
-            var res = ds.Calculate(x, y);
-            Assert.AreEqual(1, res);
+            double a = 1.0, x = 3.0, y = 1.0;
+            var res = ds.Calculate(a, x, y);
+            Assert.AreEqual(7, res);
         }
     }
 }

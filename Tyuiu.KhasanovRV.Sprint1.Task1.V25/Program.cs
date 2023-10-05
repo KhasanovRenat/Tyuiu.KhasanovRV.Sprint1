@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.KhasanovRV.Sprint1.Task1.V25.Lib;
+using Tyuiu.KhasanovRV.Sprint1.Task1.V1.Lib;
 
-namespace Tyuiu.KhasanovRV.Sprint1.Task1.V25
+namespace Tyuiu.KhasanovRV.Sprint1.Task1.V1
 {
     internal class Program
     {
@@ -17,17 +17,19 @@ namespace Tyuiu.KhasanovRV.Sprint1.Task1.V25
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
             Console.WriteLine("* Задание #1                                                              *");
-            Console.WriteLine("* Вариант #25                                                             *");
+            Console.WriteLine("* Вариант #1                                                              *");
             Console.WriteLine("* Выполнил: Хасанов Ренат Владиславович | СМАРТб-23-1                     *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходные данные, *");
-            Console.WriteLine("* вычисляет результат по формуле (x*y)/(1+x) и печатает его на экране.    *");
-            Console.WriteLine("*                                                                         *");
+            Console.WriteLine("* вычисляет результат по формуле x / 3 / y + 6 * a и печатает             *");
+            Console.WriteLine("* его на экране.                                                          *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-            double x, y;
+            double a, x, y;
+            Console.WriteLine("Введите значение A:");
+            a = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Введите значение X:");
             x = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Введите значение Y:");
@@ -36,7 +38,7 @@ namespace Tyuiu.KhasanovRV.Sprint1.Task1.V25
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine(ds.Calculate(x, y));
+            Console.WriteLine(ds.Calculate(a, x, y));
             Console.ReadKey();
         }
     }
