@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Tyuiu.KhasanovRV.Sprint1.Task0.V22.Lib;
+using Tyuiu.KhasanovRV.Sprint1.Task0.V20.Lib;
 
-namespace Tyuiu.KhasanovRV.Sprint1.Task0.V22
+namespace Tyuiu.KhasanovRV.Sprint1.Task0.V20
 {
     internal class Program
     {
@@ -18,17 +18,17 @@ namespace Tyuiu.KhasanovRV.Sprint1.Task0.V22
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
             Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #22                                                             *");
+            Console.WriteLine("* Вариант #20                                                             *");
             Console.WriteLine("* Выполнил: Хасанов Ренат Владиславович | СМАРТб-23-1                     *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу, которая вычисляет выражение 6 * 2 - (5 - 3)         *");
+            Console.WriteLine("* Написать программу, которая вычисляет выражение 10 + 9 / 3              *");
             Console.WriteLine("* и печатает результат на экране                                          *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* 6 * 2 - (5 - 3)                                                         *");
+            Console.WriteLine("* 10 + 9 / 3                                                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");

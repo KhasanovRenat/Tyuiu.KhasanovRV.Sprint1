@@ -5,11 +5,11 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{F5BE505E-534A-4953-95C2-BFAF849DC045}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhasanovRV.Sprint1.Task0.V22", "Tyuiu.KhasanovRV.Sprint1.Task0.V0\Tyuiu.KhasanovRV.Sprint1.Task0.V22.csproj", "{CABFF367-B366-44E0-B633-26D11C43E135}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhasanovRV.Sprint1.Task0.V20", "Tyuiu.KhasanovRV.Sprint1.Task0.V0\Tyuiu.KhasanovRV.Sprint1.Task0.V20.csproj", "{CABFF367-B366-44E0-B633-26D11C43E135}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhasanovRV.Sprint1.Task0.V22.Lib", "Tyuiu.KhasanovRV.Sprint1.Task0.V0.Lib\Tyuiu.KhasanovRV.Sprint1.Task0.V22.Lib.csproj", "{0E82CD8D-D2C7-492E-A271-4255AFD32B2F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhasanovRV.Sprint1.Task0.V20.Lib", "Tyuiu.KhasanovRV.Sprint1.Task0.V0.Lib\Tyuiu.KhasanovRV.Sprint1.Task0.V20.Lib.csproj", "{0E82CD8D-D2C7-492E-A271-4255AFD32B2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhasanovRV.Sprint1.Task0.V22.Test", "Tyuiu.KhasanovRV.Sprint1.Task0.V0.Test\Tyuiu.KhasanovRV.Sprint1.Task0.V22.Test.csproj", "{AC56C43A-305B-4BBB-86A9-9B1CBDE44DC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhasanovRV.Sprint1.Task0.V20.Test", "Tyuiu.KhasanovRV.Sprint1.Task0.V0.Test\Tyuiu.KhasanovRV.Sprint1.Task0.V20.Test.csproj", "{AC56C43A-305B-4BBB-86A9-9B1CBDE44DC1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{64743052-03C5-4F9D-80F7-85817CFBF827}"
 EndProject

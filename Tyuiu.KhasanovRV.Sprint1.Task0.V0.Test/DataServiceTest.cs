@@ -1,9 +1,9 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-using Tyuiu.KhasanovRV.Sprint1.Task0.V22.Lib;
+using Tyuiu.KhasanovRV.Sprint1.Task0.V20.Lib;
 
-namespace Tyuiu.KhasanovRV.Sprint1.Task0.V22.Test
+namespace Tyuiu.KhasanovRV.Sprint1.Task0.V20.Test
 {
     [TestClass]
     public class DataServiceTest
@@ -13,7 +13,7 @@ namespace Tyuiu.KhasanovRV.Sprint1.Task0.V22.Test
         {
             DataService ds = new DataService();
             var res = ds.Calculate();
-            Assert.AreEqual(10, res);
+            Assert.AreEqual(13, res);
 
         }
     }
