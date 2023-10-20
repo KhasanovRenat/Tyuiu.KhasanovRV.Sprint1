@@ -1,0 +1,11 @@
+C:\Users\Renat\source\repos\Tyuiu.KhasanovRV.Sprint1\Tyuiu.KhasanovRV.Sprint1.Task5.V5\bin\Debug\Tyuiu.KhasanovRV.Sprint1.Task5.V5.exe.config
+C:\Users\Renat\source\repos\Tyuiu.KhasanovRV.Sprint1\Tyuiu.KhasanovRV.Sprint1.Task5.V5\bin\Debug\Tyuiu.KhasanovRV.Sprint1.Task5.V5.exe
+C:\Users\Renat\source\repos\Tyuiu.KhasanovRV.Sprint1\Tyuiu.KhasanovRV.Sprint1.Task5.V5\bin\Debug\Tyuiu.KhasanovRV.Sprint1.Task5.V5.pdb
+C:\Users\Renat\source\repos\Tyuiu.KhasanovRV.Sprint1\Tyuiu.KhasanovRV.Sprint1.Task5.V5\bin\Debug\Tyuiu.KhasanovRV.Sprint1.Task5.V5.Lib.dll
+C:\Users\Renat\source\repos\Tyuiu.KhasanovRV.Sprint1\Tyuiu.KhasanovRV.Sprint1.Task5.V5\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Renat\source\repos\Tyuiu.KhasanovRV.Sprint1\Tyuiu.KhasanovRV.Sprint1.Task5.V5\bin\Debug\Tyuiu.KhasanovRV.Sprint1.Task5.V5.Lib.pdb
+C:\Users\Renat\source\repos\Tyuiu.KhasanovRV.Sprint1\Tyuiu.KhasanovRV.Sprint1.Task5.V5\obj\Debug\Tyuiu.KhasanovRV.Sprint1.Task5.V5.csproj.AssemblyReference.cache
+C:\Users\Renat\source\repos\Tyuiu.KhasanovRV.Sprint1\Tyuiu.KhasanovRV.Sprint1.Task5.V5\obj\Debug\Tyuiu.KhasanovRV.Sprint1.Task5.V5.csproj.CoreCompileInputs.cache
+C:\Users\Renat\source\repos\Tyuiu.KhasanovRV.Sprint1\Tyuiu.KhasanovRV.Sprint1.Task5.V5\obj\Debug\Tyuiu.KhasanovRV.Sprint1.Task5.V5.csproj.CopyComplete
+C:\Users\Renat\source\repos\Tyuiu.KhasanovRV.Sprint1\Tyuiu.KhasanovRV.Sprint1.Task5.V5\obj\Debug\Tyuiu.KhasanovRV.Sprint1.Task5.V5.exe
+C:\Users\Renat\source\repos\Tyuiu.KhasanovRV.Sprint1\Tyuiu.KhasanovRV.Sprint1.Task5.V5\obj\Debug\Tyuiu.KhasanovRV.Sprint1.Task5.V5.pdb
